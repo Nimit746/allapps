@@ -80,6 +80,11 @@ g++ main.cpp -o utilityApp
 ```
 cpp-terminal-utility/
 ├── allapps.cpp
+├── Doc1.csv
+├── Doc2.csv
+├── Doc3.csv
+├── Doc4.csv
+├── master_password_hash.txt
 └── README.md
 ```
 
