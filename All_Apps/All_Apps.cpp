@@ -178,7 +178,7 @@ void main1() {
             return ;
         case 28:
         {
-            string filePath = "C:\\Users\\gupta\\allapps\\All Apps"; // Replace with your file's path
+            string filePath = "Enter your file path"; // Replace with your file's path
             openFileLocation(filePath);
             system("cls");
             break;
@@ -459,7 +459,7 @@ void searchContacts(const vector<Contact>& contacts) {
                 return;
             case 28:
             {
-                string filePath = "C:\\Users\\gupta\\allapps\\All Apps"; // Replace with your file's path
+                string filePath = "Enter your file path"; // Replace with your file's path
                 openFileLocation(filePath);
                 system("cls");
                 break;
@@ -775,7 +775,7 @@ void main3() {
             }
             case 28:
             {
-                string filePath = "C:\\Users\\gupta\\allapps\\All Apps"; // Replace with your file's path
+                string filePath = "Enter your file path"; // Replace with your file's path
                 openFileLocation(filePath);
                 system("cls");
                 break;
@@ -985,7 +985,7 @@ void main4() {
             }
             case 28:
             {
-                string filePath = "C:\\Users\\gupta\\allapps\\All Apps"; // Replace with your file's path
+                string filePath = "Enter your file path"; // Replace with your file's path
                 openFileLocation(filePath);
                 system("cls");
                 break;
