@@ -472,9 +472,6 @@ void searchContacts(const vector<Contact>& contacts) {
         return ;
     }
 
-#include <bits/stdc++.h>
-#include <conio.h> // For getch()
-
 using namespace std;
 
 class PasswordManager {
